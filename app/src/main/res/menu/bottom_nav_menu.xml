@@ -18,5 +18,10 @@
         android:icon="@drawable/ic_baseline_camera_alt_24"
         android:title="@string/title_progress"
         app:exb_color="#e5dada"/>
+    <item
+        android:id="@+id/navigation_weight"
+        android:icon="@drawable/baseline_monitor_weight_24"
+        android:title="@string/weight"
+        app:exb_color="#e5dada"/>
 
 </menu>
