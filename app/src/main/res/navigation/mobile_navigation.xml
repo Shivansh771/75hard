@@ -22,4 +22,9 @@
         android:name="com.example.hard75tracker.ui.progress.ProgressFragment"
         android:label="@string/title_progress"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_weight"
+        android:name="com.example.hard75tracker.weight.WeightTracker"
+        android:label="fragment_weight_tracker"
+        tools:layout="@layout/fragment_weight_tracker" />
 </navigation>
